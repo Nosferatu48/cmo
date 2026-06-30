@@ -1,3 +1,5 @@
+git config --global user.email "beeprorussia@gmail.com" && git config --global user.name "Viktoriya" && 
+
 #!/bin/bash
 
 # Создаём структуру папок
